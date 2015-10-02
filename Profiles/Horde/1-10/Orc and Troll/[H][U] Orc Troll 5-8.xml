@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Durotar 51/68 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 51/68 -->
+			<X>-592.1456</X>
+			<Y>-4664.629</Y>
+			<Z>41.49929</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/65 -->
+			<X>-504.6821</X>
+			<Y>-4711.167</Y>
+			<Z>36.24453</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/61 -->
+			<X>-374.144</X>
+			<Y>-4689.562</Y>
+			<Z>43.23248</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 52/57 -->
+			<X>-212.094</X>
+			<Y>-4734.384</Y>
+			<Z>31.25171</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/53 -->
+			<X>-91.39325</X>
+			<Y>-4707.548</Y>
+			<Z>29.03135</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/56 -->
+			<X>-178.8629</X>
+			<Y>-4798.38</Y>
+			<Z>25.73825</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 54/61 -->
+			<X>-361.8775</X>
+			<Y>-4845.963</Y>
+			<Z>38.09442</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/68 -->
+			<X>-622.4189</X>
+			<Y>-4918.733</Y>
+			<Z>31.65421</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/71 -->
+			<X>-718.9678</X>
+			<Y>-4787.395</Y>
+			<Z>31.01996</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 52/73 -->
+			<X>-771.731</X>
+			<Y>-4727.134</Y>
+			<Z>31.10183</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/69 -->
+			<X>-649.8764</X>
+			<Y>-4633.696</Y>
+			<Z>39.25163</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>189</Faction>
+		<Faction>413</Faction>
+	</Factions>
+	<Repair>
+		<!-- Pos: 55/73 -->
+		<Position>
+			<X>-786.558</X>
+			<Y>-4903.8</Y>
+			<Z>19.60032</Z>
+		</Position>
+		<Name>Hai'zan</Name>
+	</Repair>
+</Profile>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Durotar 40/45 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 40/45 -->
+			<X>213.438</X>
+			<Y>-4130</Y>
+			<Z>43.15872</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/45 -->
+			<X>192.9716</X>
+			<Y>-4298.113</Y>
+			<Z>46.08345</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/46 -->
+			<X>176.4465</X>
+			<Y>-4480.197</Y>
+			<Z>33.24459</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 48/40 -->
+			<X>383.2156</X>
+			<Y>-4514.646</Y>
+			<Z>50.62492</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/40 -->
+			<X>378.7638</X>
+			<Y>-4380.289</Y>
+			<Z>32.62831</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 52/41 -->
+			<X>360.5323</X>
+			<Y>-4762.804</Y>
+			<Z>12.4828</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 50/43 -->
+			<X>258.6583</X>
+			<Y>-4641.327</Y>
+			<Z>11.83772</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 47/44 -->
+			<X>248.955</X>
+			<Y>-4457.712</Y>
+			<Z>20.38835</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 52/41 -->
+		<Position>
+			<X>362.105</X>
+			<Y>-4763.84</Y>
+			<Z>12.46956</Z>
+		</Position>
+		<Name>Ghrawt</Name>
+	</Repair>
+</Profile>

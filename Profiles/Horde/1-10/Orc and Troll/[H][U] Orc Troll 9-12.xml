@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Durotar 40/16 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 40/16 -->
+			<X>1210.236</X>
+			<Y>-4107.497</Y>
+			<Z>22.66448</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/21 -->
+			<X>1063.275</X>
+			<Y>-4048.917</Y>
+			<Z>17.62516</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/23 -->
+			<X>973.223</X>
+			<Y>-3914.494</Y>
+			<Z>18.38434</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/25 -->
+			<X>899.1724</X>
+			<Y>-3891.155</Y>
+			<Z>21.56375</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/31 -->
+			<X>698.8737</X>
+			<Y>-3887.894</Y>
+			<Z>17.22609</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/35 -->
+			<X>554.3853</X>
+			<Y>-3923.175</Y>
+			<Z>19.52417</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/40 -->
+			<X>377.7349</X>
+			<Y>-3904.725</Y>
+			<Z>29.50018</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>189</Faction>
+		<Faction>48</Faction>
+		<Faction>413</Faction>
+		<Faction>14</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 36/40 -->
+			<X>377.7349</X>
+			<Y>-3904.725</Y>
+			<Z>29.50018</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 41/43 -->
+			<X>274.0669</X>
+			<Y>-4135.226</Y>
+			<Z>29.38603</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 47/44 -->
+			<X>254.8924</X>
+			<Y>-4475.178</Y>
+			<Z>16.00306</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 51/43 -->
+			<X>269.0135</X>
+			<Y>-4661.043</Y>
+			<Z>11.68373</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 52/42 -->
+			<X>312.589</X>
+			<Y>-4724.572</Y>
+			<Z>10.45266</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 52/41 -->
+		<Position>
+			<X>362.105</X>
+			<Y>-4763.84</Y>
+			<Z>12.46956</Z>
+		</Position>
+		<Name>Ghrawt</Name>
+	</Repair>
+</Profile>

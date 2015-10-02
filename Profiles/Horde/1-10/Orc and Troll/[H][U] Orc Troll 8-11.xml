@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Durotar 64/81 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 64/81 -->
+			<X>-1081.969</X>
+			<Y>-5351.197</Y>
+			<Z>4.150889</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 64/84 -->
+			<X>-1161.932</X>
+			<Y>-5357.414</Y>
+			<Z>6.837402</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 65/85 -->
+			<X>-1206.045</X>
+			<Y>-5416.128</Y>
+			<Z>5.547603</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 64/88 -->
+			<X>-1322.27</X>
+			<Y>-5399.184</Y>
+			<Z>2.809676</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 66/89 -->
+			<X>-1329.834</X>
+			<Y>-5470.717</Y>
+			<Z>6.148855</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 66/87 -->
+			<X>-1278.962</X>
+			<Y>-5490.593</Y>
+			<Z>4.616573</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 68/86 -->
+			<X>-1225.548</X>
+			<Y>-5574.441</Y>
+			<Z>8.793667</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 67/83 -->
+			<X>-1141.941</X>
+			<Y>-5532.845</Y>
+			<Z>6.432037</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 67/83 -->
+			<X>-1121.808</X>
+			<Y>-5533.052</Y>
+			<Z>8.669278</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 68/80 -->
+			<X>-1045.632</X>
+			<Y>-5598.45</Y>
+			<Z>4.280176</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>48</Faction>
+		<Faction>16</Faction>
+		<Faction>14</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 64/80 -->
+			<X>-1021.894</X>
+			<Y>-5365.68</Y>
+			<Z>4.092236</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 61/77 -->
+			<X>-909.5422</X>
+			<Y>-5202.626</Y>
+			<Z>-1.471759</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 58/73 -->
+			<X>-788.4832</X>
+			<Y>-5031.36</Y>
+			<Z>13.7332</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 56/72 -->
+			<X>-737.7786</X>
+			<Y>-4938.858</Y>
+			<Z>23.00959</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 55/73 -->
+			<X>-779.3398</X>
+			<Y>-4879.206</Y>
+			<Z>19.62271</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 55/73 -->
+			<X>-784.8926</X>
+			<Y>-4898.223</Y>
+			<Z>19.59133</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 55/73 -->
+		<Position>
+			<X>-786.558</X>
+			<Y>-4903.8</Y>
+			<Z>19.60032</Z>
+		</Position>
+		<Name>Hai'zan</Name>
+	</Repair>
+</Profile>
