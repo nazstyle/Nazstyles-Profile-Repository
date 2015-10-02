@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Westfall 45/49 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 45/49 -->
+			<X>-10558.6</X>
+			<Y>1415.151</Y>
+			<Z>47.55185</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/56 -->
+			<X>-10713.1</X>
+			<Y>1456.912</Y>
+			<Z>46.40451</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/62 -->
+			<X>-10847.42</X>
+			<Y>1434.271</Y>
+			<Z>42.76797</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/62 -->
+			<X>-10853.13</X>
+			<Y>1368.386</Y>
+			<Z>38.68094</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/63 -->
+			<X>-10879.25</X>
+			<Y>1268.254</Y>
+			<Z>34.90277</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 52/60 -->
+			<X>-10810.86</X>
+			<Y>1180.371</Y>
+			<Z>41.41053</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/61 -->
+			<X>-10834.29</X>
+			<Y>1077.789</Y>
+			<Z>37.47857</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>73</Faction>
+		<Faction>189</Faction>
+	</Factions>
+	<Repair>
+		<!-- Pos: 57/53 -->
+		<Position>
+			<X>-10658.5</X>
+			<Y>996.851</Y>
+			<Z>32.87489</Z>
+		</Position>
+		<Name>William MacGregor</Name>
+	</Repair>
+</Profile>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Westfall 56/68 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 56/68 -->
+			<X>-11008.78</X>
+			<Y>1051.39</Y>
+			<Z>39.53164</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/72 -->
+			<X>-11095.55</X>
+			<Y>915.8513</Y>
+			<Z>39.16915</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 64/74 -->
+			<X>-11131.22</X>
+			<Y>761.1233</Y>
+			<Z>36.50349</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 64/68 -->
+			<X>-10994.38</X>
+			<Y>743.1448</Y>
+			<Z>44.2429</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>20</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 57/53 -->
+			<X>-10651.33</X>
+			<Y>1009.446</Y>
+			<Z>32.3291</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 57/53 -->
+		<Position>
+			<X>-10658.5</X>
+			<Y>996.851</Y>
+			<Z>32.87503</Z>
+		</Position>
+		<Name>William MacGregor</Name>
+	</Repair>
+</Profile>
