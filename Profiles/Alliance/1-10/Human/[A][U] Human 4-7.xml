@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Elwynn Forest 54/41 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 54/41 -->
+			<X>-8891.564</X>
+			<Y>-350.3024</Y>
+			<Z>71.86086</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/45 -->
+			<X>-8984.467</X>
+			<Y>-399.4793</Y>
+			<Z>71.39381</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/48 -->
+			<X>-9069.423</X>
+			<Y>-321.9789</Y>
+			<Z>73.45218</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/50 -->
+			<X>-9116.81</X>
+			<Y>-248.4398</Y>
+			<Z>74.90862</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>17</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 47/42 -->
+			<X>-8913.183</X>
+			<Y>-107.4759</Y>
+			<Z>82.04447</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 51/40 -->
+			<X>-8868.703</X>
+			<Y>-248.7162</Y>
+			<Z>81.74036</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 47/42 -->
+		<Position>
+			<X>-8909.46</X>
+			<Y>-104.163</Y>
+			<Z>81.84856</Z>
+		</Position>
+		<Name>Janos Hammerknuckle</Name>
+	</Repair>
+</Profile>

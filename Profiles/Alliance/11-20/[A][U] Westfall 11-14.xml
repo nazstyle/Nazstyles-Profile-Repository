@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Westfall 0/0 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 0/0 -->
+			<X>-10258.53</X>
+			<Y>840.3111</Y>
+			<Z>44.64223</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 18/94 -->
+			<X>-10122.99</X>
+			<Y>902.0792</Y>
+			<Z>37.43476</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 20/88 -->
+			<X>-9992.966</X>
+			<Y>826.7432</Y>
+			<Z>32.92018</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 16/81 -->
+			<X>-9816.698</X>
+			<Y>960.6097</Y>
+			<Z>29.13064</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 14/81 -->
+			<X>-9820.277</X>
+			<Y>1032.997</Y>
+			<Z>31.47301</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 10/78 -->
+			<X>-9751.286</X>
+			<Y>1174.039</Y>
+			<Z>41.91764</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>38</Faction>
+		<Faction>189</Faction>
+		<Faction>73</Faction>
+		<Faction>14</Faction>
+		<Faction>17</Faction>
+		<Faction>20</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 61/21 -->
+			<X>-9897.814</X>
+			<Y>851.1611</Y>
+			<Z>29.1838</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 64/15 -->
+			<X>-9772.102</X>
+			<Y>757.8008</Y>
+			<Z>27.90609</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 66/10 -->
+			<X>-9648.494</X>
+			<Y>680.9264</Y>
+			<Z>37.41394</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 66/9 -->
+			<X>-9627.127</X>
+			<Y>672.7393</Y>
+			<Z>37.15318</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 67/10 -->
+			<X>-9640.287</X>
+			<Y>652.6104</Y>
+			<Z>38.65249</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 67/10 -->
+			<X>-9650.792</X>
+			<Y>657.4596</Y>
+			<Z>38.65249</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 67/10 -->
+		<Position>
+			<X>-9653.95</X>
+			<Y>659.651</Y>
+			<Z>38.65245</Z>
+		</Position>
+		<Name>Quartermaster Hudson</Name>
+	</Repair>
+</Profile>
