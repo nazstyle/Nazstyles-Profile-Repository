@@ -1,0 +1,56 @@
+    <?xml version="1.0" encoding="utf-8"?>
+    <!-- Start: Wetlands 17/28 -->
+    <Profile>
+       <Hotspots>
+          <Hotspot>
+             <!-- Pos: 17/28 -->
+             <X>-2941.083</X>
+             <Y>-1112.52</Y>
+             <Z>9.134438</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 23/26 -->
+             <X>-2889.321</X>
+             <Y>-1379.691</Y>
+             <Z>9.147356</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 24/22 -->
+             <X>-2779.561</X>
+             <Y>-1409.693</Y>
+             <Z>9.364465</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 28/20 -->
+             <X>-2722.944</X>
+             <Y>-1588.854</Y>
+             <Z>8.687139</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 33/24 -->
+             <X>-2818.385</X>
+             <Y>-1792.568</Y>
+             <Z>9.149597</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+       </Hotspots>
+       <Factions>
+          <Faction>14</Faction>
+          <Faction>48</Faction>
+          <Faction>18</Faction>
+       </Factions>
+       <Repair>
+          <!-- Pos: 11/59 -->
+          <Position>
+             <X>-3790.13</X>
+             <Y>-858.467</Y>
+             <Z>11.5981</Z>
+          </Position>
+          <Name>Murndan Derth</Name>
+       </Repair>
+       <GhostHotspots />
+    </Profile>
