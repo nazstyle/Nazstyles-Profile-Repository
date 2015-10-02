@@ -1,0 +1,41 @@
+    <?xml version="1.0" encoding="utf-8"?>
+    <!-- Start: Duskwood 67/67 -->
+    <Profile>
+       <Hotspots>
+          <Hotspot>
+             <!-- Pos: 67/67 -->
+             <X>-10926.07</X>
+             <Y>-975.7199</Y>
+             <Z>71.12144</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 64/74 -->
+             <X>-11055.28</X>
+             <Y>-919.2335</Y>
+             <Z>64.90066</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 61/71 -->
+             <X>-11006.43</X>
+             <Y>-814.1559</Y>
+             <Z>60.04246</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+       </Hotspots>
+       <Factions>
+          <Faction>24</Faction>
+       </Factions>
+       <VendorHotspots />
+       <Repair>
+          <!-- Pos: 73/48 -->
+          <Position>
+             <X>-10596.6</X>
+             <Y>-1163.85</Y>
+             <Z>30.0585</Z>
+          </Position>
+          <Name>Morg Gnarltree</Name>
+       </Repair>
+       <GhostHotspots />
+    </Profile>
