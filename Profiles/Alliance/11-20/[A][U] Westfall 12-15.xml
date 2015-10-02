@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Westfall 48/68 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 48/68 -->
+			<X>-11001.34</X>
+			<Y>1314.729</Y>
+			<Z>41.44701</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/67 -->
+			<X>-10983.81</X>
+			<Y>1404.373</Y>
+			<Z>43.4095</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/69 -->
+			<X>-11029.01</X>
+			<Y>1468.684</Y>
+			<Z>43.12811</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/70 -->
+			<X>-11038.72</X>
+			<Y>1501.202</Y>
+			<Z>43.20095</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>14</Faction>
+		<Faction>17</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 47/67 -->
+			<X>-10970.07</X>
+			<Y>1351.067</Y>
+			<Z>47.3694</Z>
+			<Type>Waypoint</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 52/65 -->
+			<X>-10928.28</X>
+			<Y>1183.696</Y>
+			<Z>37.21447</Z>
+			<Type>Waypoint</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 56/65 -->
+			<X>-10925.79</X>
+			<Y>1029.931</Y>
+			<Z>37.9493</Z>
+			<Type>Waypoint</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 56/59 -->
+			<X>-10799.54</X>
+			<Y>1032.737</Y>
+			<Z>35.16187</Z>
+			<Type>Waypoint</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 56/54 -->
+			<X>-10668.91</X>
+			<Y>1028.618</Y>
+			<Z>32.61117</Z>
+			<Type>Waypoint</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 57/53 -->
+			<X>-10656.49</X>
+			<Y>999.552</Y>
+			<Z>32.87421</Z>
+			<Type>Waypoint</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 57/53 -->
+		<Position>
+			<X>-10658.5</X>
+			<Y>996.851</Y>
+			<Z>32.87503</Z>
+		</Position>
+		<Name>William MacGregor</Name>
+	</Repair>
+</Profile>
