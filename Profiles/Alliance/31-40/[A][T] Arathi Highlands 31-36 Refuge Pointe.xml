@@ -1,0 +1,117 @@
+    <?xml version="1.0" encoding="utf-8"?>
+    <!-- Start: Arathi Highlands 0/0 -->
+    <Profile>
+       <Hotspots>
+          <Hotspot>
+             <!-- Pos: 0/0 -->
+             <X>-1255.487</X>
+             <Y>-2335.917</Y>
+             <Z>56.95979</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 37/42 -->
+             <X>-1157.997</X>
+             <Y>-2223.716</Y>
+             <Z>55.64066</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 33/37 -->
+             <X>-1037.494</X>
+             <Y>-2072.65</Y>
+             <Z>55.68811</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 29/34 -->
+             <X>-955.5637</X>
+             <Y>-1936.913</Y>
+             <Z>61.04718</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 30/30 -->
+             <X>-857.1193</X>
+             <Y>-1965.552</Y>
+             <Z>46.72733</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 31/29 -->
+             <X>-837.9512</X>
+             <Y>-1987.617</Y>
+             <Z>34.36003</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 31/29 -->
+             <X>-837.9512</X>
+             <Y>-1987.617</Y>
+             <Z>34.36003</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 33/28 -->
+             <X>-814.7079</X>
+             <Y>-2086.475</Y>
+             <Z>33.84055</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 43/36 -->
+             <X>-1020.59</X>
+             <Y>-2438.496</Y>
+             <Z>56.10156</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 45/41 -->
+             <X>-1122.501</X>
+             <Y>-2507.555</Y>
+             <Z>57.09621</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+       </Hotspots>
+       <Factions>
+          <Faction>22</Faction>
+          <Faction>48</Faction>
+          <Faction>45</Faction>
+          <Faction>654</Faction>
+          <Faction>7</Faction>
+       </Factions>
+       <VendorHotspots>
+          <VendorHotspot>
+             <!-- Pos: 0/0 -->
+             <X>-1274.811</X>
+             <Y>-2521.101</Y>
+             <Z>21.33499</Z>
+             <Type>Hotspot</Type>
+          </VendorHotspot>
+       </VendorHotspots>
+       <Repair>
+          <!-- Pos: 0/0 -->
+          <Position>
+             <X>-1278.57</X>
+             <Y>-2522</Y>
+             <Z>21.37455</Z>
+          </Position>
+          <Name>Jannos Ironwill</Name>
+       </Repair>
+       <GhostHotspots>
+          <GhostHotspot>
+             <!-- Pos: 48/55 -->
+             <X>-1472.289</X>
+             <Y>-2617.959</Y>
+             <Z>49.27652</Z>
+             <Type>Hotspot</Type>
+          </GhostHotspot>
+          <GhostHotspot>
+             <!-- Pos: 41/48 -->
+             <X>-1306.739</X>
+             <Y>-2342.899</Y>
+             <Z>57.3534</Z>
+             <Type>Hotspot</Type>
+          </GhostHotspot>
+       </GhostHotspots>
+    </Profile>

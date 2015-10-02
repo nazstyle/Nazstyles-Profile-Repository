@@ -1,0 +1,73 @@
+    <?xml version="1.0" encoding="utf-8"?>
+    <!-- Start: Desolace 43/38 -->
+    <Profile>
+       <Hotspots>
+          <Hotspot>
+             <!-- Pos: 43/38 -->
+             <X>-713.1779</X>
+             <Y>2298.039</Y>
+             <Z>91.06228</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 42/52 -->
+             <X>-1118.486</X>
+             <Y>2314.889</Y>
+             <Z>95.11114</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 41/62 -->
+             <X>-1412.285</X>
+             <Y>2352.545</Y>
+             <Z>92.63323</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+          <Hotspot>
+             <!-- Pos: 41/67 -->
+             <X>-1566.064</X>
+             <Y>2348.902</Y>
+             <Z>92.53529</Z>
+             <Type>Hotspot</Type>
+          </Hotspot>
+       </Hotspots>
+       <Factions>
+          <Faction>73</Faction>
+          <Faction>49</Faction>
+          <Faction>91</Faction>
+          <Faction>413</Faction>
+          <Faction>14</Faction>
+       </Factions>
+       <Repair>
+          <!-- Pos: 60/38 -->
+          <Position>
+             <X>-692.743</X>
+             <Y>1522.2</Y>
+             <Z>90.27785</Z>
+          </Position>
+          <Name>Vendor-Tron 1000</Name>
+       </Repair>
+       <GhostHotspots>
+          <GhostHotspot>
+             <!-- Pos: 50/63 -->
+             <X>-1443.488</X>
+             <Y>1973.37</Y>
+             <Z>85.49072</Z>
+             <Type>Hotspot</Type>
+          </GhostHotspot>
+          <GhostHotspot>
+             <!-- Pos: 44/63 -->
+             <X>-1466.433</X>
+             <Y>2218.605</Y>
+             <Z>94.12814</Z>
+             <Type>Hotspot</Type>
+          </GhostHotspot>
+          <GhostHotspot>
+             <!-- Pos: 42/63 -->
+             <X>-1439.878</X>
+             <Y>2315.578</Y>
+             <Z>91.69416</Z>
+             <Type>Hotspot</Type>
+          </GhostHotspot>
+       </GhostHotspots>
+    </Profile>

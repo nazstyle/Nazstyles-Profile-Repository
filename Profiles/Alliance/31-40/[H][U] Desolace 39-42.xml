@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Desolace 52/67 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 52/67 -->
+			<X>-1578.07</X>
+			<Y>1894.58</Y>
+			<Z>61.6047</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/73 -->
+			<X>-1749.012</X>
+			<Y>1923.951</Y>
+			<Z>59.00739</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/77 -->
+			<X>-1874.051</X>
+			<Y>1826.372</Y>
+			<Z>61.34611</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/76 -->
+			<X>-1828.006</X>
+			<Y>1935.005</Y>
+			<Z>62.01608</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/78 -->
+			<X>-1909.197</X>
+			<Y>2020.357</Y>
+			<Z>63.05286</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 52/81 -->
+			<X>-2001.151</X>
+			<Y>1887.365</Y>
+			<Z>57.86406</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/83 -->
+			<X>-2063.15</X>
+			<Y>1832.953</Y>
+			<Z>59.85046</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 56/84 -->
+			<X>-2090.195</X>
+			<Y>1711.219</Y>
+			<Z>60.4736</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/77 -->
+			<X>-1871.028</X>
+			<Y>1813.088</Y>
+			<Z>64.92219</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/71 -->
+			<X>-1687.468</X>
+			<Y>1822.748</Y>
+			<Z>60.57451</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>554</Faction>
+		<Faction>90</Faction>
+		<Faction>14</Faction>
+		<Faction>73</Faction>
+		<Faction>91</Faction>
+	</Factions>
+		<Repair>
+		<!-- Pos: 60/38 -->
+		<Position>
+			<X>-692.743</X>
+			<Y>1522.2</Y>
+			<Z>90.27785</Z>
+		</Position>
+		<Name>Vendor-Tron 1000</Name>
+	</Repair>
+</Profile>
