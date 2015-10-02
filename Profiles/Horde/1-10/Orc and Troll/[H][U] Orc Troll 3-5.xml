@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Durotar 43/57 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 43/57 -->
+			<X>-212.6234</X>
+			<Y>-4268.229</Y>
+			<Z>67.13747</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/57 -->
+			<X>-208.2584</X>
+			<Y>-4336.6</Y>
+			<Z>66.13177</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/57 -->
+			<X>-228.2663</X>
+			<Y>-4433.511</Y>
+			<Z>63.31517</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/59 -->
+			<X>-298.8565</X>
+			<Y>-4434.789</Y>
+			<Z>58.14801</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>7</Faction>
+		<Faction>14</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 45/62 -->
+			<X>-392.2844</X>
+			<Y>-4364.713</Y>
+			<Z>40.47556</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 44/66 -->
+			<X>-522.4444</X>
+			<Y>-4291.381</Y>
+			<Z>38.59843</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 42/67 -->
+			<X>-570.132</X>
+			<Y>-4224.131</Y>
+			<Z>41.18198</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 42/67 -->
+		<Position>
+			<X>-560.125</X>
+			<Y>-4217.2</Y>
+			<Z>41.59048</Z>
+		</Position>
+		<Name>Zlagk</Name>
+	</Repair>
+</Profile>
