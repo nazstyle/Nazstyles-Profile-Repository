@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Darkshore 41/66 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 41/66 -->
+			<X>5446.355</X>
+			<Y>255.9092</Y>
+			<Z>34.65947</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/67 -->
+			<X>5394.109</X>
+			<Y>85.7354</Y>
+			<Z>33.08522</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/70 -->
+			<X>5264.232</X>
+			<Y>123.3769</Y>
+			<Z>43.46974</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/72 -->
+			<X>5162.458</X>
+			<Y>191.1899</Y>
+			<Z>37.01041</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/70 -->
+			<X>5245.314</X>
+			<Y>349.9228</Y>
+			<Z>29.51189</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 38/70 -->
+			<X>5246.046</X>
+			<Y>432.9841</Y>
+			<Z>24.62364</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/70 -->
+			<X>5242.116</X>
+			<Y>545.2826</Y>
+			<Z>6.649436</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/69 -->
+			<X>5282.614</X>
+			<Y>474.4421</Y>
+			<Z>17.57953</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/68 -->
+			<X>5357.289</X>
+			<Y>384.6609</Y>
+			<Z>26.83381</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/68 -->
+			<X>5357.289</X>
+			<Y>384.6609</Y>
+			<Z>26.83381</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/65 -->
+			<X>5485.073</X>
+			<Y>317.6524</Y>
+			<Z>28.66385</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/61 -->
+			<X>5635.439</X>
+			<Y>384.7409</Y>
+			<Z>18.38033</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>18</Faction>
+		<Faction>44</Faction>
+		<Faction>14</Faction>
+		<Faction>189</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 38/41 -->
+			<X>6533.894</X>
+			<Y>441.3708</Y>
+			<Z>6.941903</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 38/42 -->
+			<X>6466.204</X>
+			<Y>412.0287</Y>
+			<Z>11.19292</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 39/44 -->
+			<X>6388.535</X>
+			<Y>362.1177</Y>
+			<Z>18.69252</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 40/46 -->
+			<X>6282.94</X>
+			<Y>314.3143</Y>
+			<Z>23.00467</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 40/52 -->
+			<X>6032.604</X>
+			<Y>262.8045</Y>
+			<Z>22.39363</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 40/56 -->
+			<X>5865.742</X>
+			<Y>264.972</Y>
+			<Z>24.78935</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 40/60 -->
+			<X>5685.968</X>
+			<Y>311.2832</Y>
+			<Z>18.70107</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 40/65 -->
+			<X>5486.282</X>
+			<Y>289.952</Y>
+			<Z>29.03384</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 38/41 -->
+		<Position>
+			<X>6538.29</X>
+			<Y>443.297</Y>
+			<Z>7.141007</Z>
+		</Position>
+		<Name>Elisa Steelhand</Name>
+	</Repair>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 43/92 -->
+			<X>4291.283</X>
+			<Y>96.95573</Y>
+			<Z>43.07526</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 41/89 -->
+			<X>4434.641</X>
+			<Y>216.2376</Y>
+			<Z>59.09319</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 40/85 -->
+			<X>4592.841</X>
+			<Y>289.421</Y>
+			<Z>55.39753</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 41/79 -->
+			<X>4862.298</X>
+			<Y>217.5099</Y>
+			<Z>50.19551</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 41/73 -->
+			<X>5145.089</X>
+			<Y>248.3011</Y>
+			<Z>30.49348</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 40/66 -->
+			<X>5429.656</X>
+			<Y>286.6109</Y>
+			<Z>31.1717</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>
