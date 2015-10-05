@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Darkshore 36/46 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 36/46 -->
+			<X>6302.834</X>
+			<Y>571.2048</Y>
+			<Z>1.362481</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/48 -->
+			<X>6207.012</X>
+			<Y>545.5665</Y>
+			<Z>6.560565</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/50 -->
+			<X>6118.895</X>
+			<Y>501.5329</Y>
+			<Z>15.35886</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/52 -->
+			<X>6043.094</X>
+			<Y>509.792</Y>
+			<Z>6.489939</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/53 -->
+			<X>6018.766</X>
+			<Y>553.7356</Y>
+			<Z>0.3273838</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 35/54 -->
+			<X>5956.274</X>
+			<Y>619.8874</Y>
+			<Z>0.3226815</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 35/58 -->
+			<X>5770.057</X>
+			<Y>584.1123</Y>
+			<Z>0.7543685</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/62 -->
+			<X>5618.737</X>
+			<Y>580.8233</Y>
+			<Z>-0.00403893</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/63 -->
+			<X>5562.318</X>
+			<Y>564.0671</Y>
+			<Z>1.322592</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/65 -->
+			<X>5488.356</X>
+			<Y>570.9023</Y>
+			<Z>2.237898</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/66 -->
+			<X>5444.208</X>
+			<Y>510.0729</Y>
+			<Z>7.29321</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 37/69 -->
+			<X>5319.662</X>
+			<Y>501.5158</Y>
+			<Z>13.52489</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/72 -->
+			<X>5146.181</X>
+			<Y>568.2114</Y>
+			<Z>3.060291</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 35/73 -->
+			<X>5137.407</X>
+			<Y>607.2372</Y>
+			<Z>0.2881535</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 36/74 -->
+			<X>5070.83</X>
+			<Y>577.0439</Y>
+			<Z>0.6174421</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>7</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 38/41 -->
+			<X>6536.612</X>
+			<Y>441.321</Y>
+			<Z>7.219861</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 37/42 -->
+			<X>6482.693</X>
+			<Y>482.3554</Y>
+			<Z>6.778398</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 36/47 -->
+			<X>6262.634</X>
+			<Y>521.356</Y>
+			<Z>12.11071</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 38/41 -->
+		<Position>
+			<X>6538.29</X>
+			<Y>443.297</Y>
+			<Z>7.141007</Z>
+		</Position>
+		<Name>Elisa Steelhand</Name>
+	</Repair>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 41/36 -->
+			<X>6739.19</X>
+			<Y>209.9926</Y>
+			<Z>23.28456</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 39/38 -->
+			<X>6653.361</X>
+			<Y>328.0318</Y>
+			<Z>30.38593</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 39/40 -->
+			<X>6579.009</X>
+			<Y>365.6277</Y>
+			<Z>31.1282</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 41/43 -->
+			<X>6428.571</X>
+			<Y>230.9231</Y>
+			<Z>30.95579</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 40/46 -->
+			<X>6320.317</X>
+			<Y>286.4732</Y>
+			<Z>26.90311</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 38/48 -->
+			<X>6216.983</X>
+			<Y>430.4265</Y>
+			<Z>24.93856</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 36/48 -->
+			<X>6197.711</X>
+			<Y>529.9332</Y>
+			<Z>13.45067</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>
